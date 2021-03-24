@@ -1,0 +1,14 @@
+{
+  "siteName": "サイト名",
+  "title": "タイトル",
+  "description": "概要",
+  "keywords": "キーワード,キーワード,キーワード,キーワード,キーワード",
+  "robots": "",
+  "author": "",
+  "viewport": "",
+  "canonical": "",
+  "og": {
+    "img": "",
+    "": ""
+  }
+}
