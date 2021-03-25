@@ -1,33 +1,50 @@
 # チェック項目
 
 ## メタデータ
-- chrome拡張（ https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc ）
-- https://search.google.com/test/rich-results
+各情報が正しく入力されている
+- [ ] タイトル
+- [ ] ディスクリプション
+- [ ] リッチリザルト
+- [ ] lang
+- [ ] charset
+- [ ] viewport
+- [ ] canonical
+- [ ] favicon
+- [ ] Facebook関連
+- [ ] Twitter関連
+- [ ] ※キーワード
+- [ ] ※robots
+- [ ] ※author
 
 ## ブラウザチェック
+各最新バージョンでレイアウト崩れがなく、正しく挙動する
+- [ ] Windows Chrome
+- [ ] Windows Edge
+- [ ] Android Chrome
+- [ ] Mac Chrome
+- [ ] Mac Safari
+- [ ] iPhone Chrome（エミュレータ利用）
+- [ ] iPhone Safari（エミュレータ利用）
 
-## HTMLチェック
-- chrome拡張（ https://chrome.google.com/webstore/detail/htmlエラーチェッカー/ohdllebchmmponnofchalfkegpjojcaf?hl=ja ）
-- 見出し構造が適切（ https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc ）
-- 画像代替テキスト（ https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc ）
+## HTML
+- [ ] 文法エラーがない
+- [ ] 見出しの構造が適切
+- [ ] 画像に代替テキストが設定されている（装飾画像の場合は空にする）
+- [ ] リンクが正しく設定されている
+- [ ] ダミーデータが残っていない
 
-## リンクチェック
-- chrome拡張（ https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf ）
-- 実際にクリック
+## CSS
+- [ ] 文法エラーがない
 
-## 校正チェック
-- 指定がある場合、ブックマークレット
-- 指定がない場合、wordの校正機能
+## JavaScript
+- [ ] デバッグツールでエラーが表示されない
+- [ ] 実際の挙動に不要なスクリプト（console.logなど）がない
 
-## コードのスペルチェック
-- VSCode拡張
+## 文章
+- [ ] 原稿の内容が正しく入力されている
+- [ ] 校正・スペルチェックをして問題がない
+- [ ] ※指定された文言をチェックして問題がない
 
-## モバイルフレンドリーチェック
-- https://search.google.com/test/mobile-friendly?hl=ja
-
-## JS
-‐ consoleエラーなし
-- console.logなど不要な記述が削除されている
-
-## テキスト
-- ダミーデータが残っていないか
+## その他
+- [ ] モバイルフレンドリーである
+- [ ] ※ライトハウスのレポート項目に対応している（対応が難しい項目については対応しない場合あり）
