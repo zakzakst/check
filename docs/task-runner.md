@@ -1,7 +1,7 @@
 # タスクランナー
 定型の作業を自動化して、コードの品質と作業スピードをアップしています。
 
-| 作業内容 | 利用プログラム |
+| 利用プログラム | 作業内容 |
 | :--- | :--- |
 | [gulp-htmlmin](https://www.npmjs.com/package/gulp-htmlmin) | HTMLを整形・圧縮する |
 | [gulp-ejs](https://www.npmjs.com/package/gulp-ejs)、[gulp-nunjucks-render](https://www.npmjs.com/package/gulp-nunjucks-render)、[gulp-pug](https://www.npmjs.com/package/gulp-pug) | 各種HTMLテンプレート言語を展開する |
