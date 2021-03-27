@@ -1,7 +1,47 @@
-site_name: My Docs
+site_name: 'コード作成について'
+docs_dir: 'src'
+site_dir: 'docs'
+
+# テーマの設定
 theme:
   name: 'material'
   language: 'ja'
+  # features:
+  #   - navigation.tabs
+
+# カスタムCSSの読込
+extra_css:
+  - css/custom.css
+
+# ナビゲーションの設定
+nav:
+  - はじめに: index.md
+  - ヒアリング項目: hearing-list.md
+  - チェック項目: check-list.md
+  - 作成環境:
+    - 利用チェックツール: check-tools.md
+    - エディタ設定・機能: editor-settings.md
+    - タスクランナー: task-runner.md
+
+# マークダウンの拡張
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# 検索プラグインの設定
+plugins:
+  - search:
+      lang: 'ja'
+
+# フッターソーシャルアイコンの設定
 extra:
-  search:
-    language: 'ja'
+  social:
+    - icon: 'fontawesome/brands/github'
+      link: 'https://github.com/zakzakst/check'
+
+# コピーライトの表示
+copyright: '&copy; 2021 Ishizaki Satoshi.'
