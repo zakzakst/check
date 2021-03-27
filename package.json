@@ -1,0 +1,23 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "mkDocsStart": "mkdocs serve",
+    "mkDocsBuild": "mkdocs build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakzakst/check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakzakst/check/issues"
+  },
+  "homepage": "https://github.com/zakzakst/check#readme"
+}
