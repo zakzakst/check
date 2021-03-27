@@ -6,3 +6,5 @@
 - [プロジェクトドキュメント構築向け静的サイトジェネレータ『MkDocs』及び『Material for MkDocs』の個人的導入＆設定まとめ](https://dev.classmethod.jp/articles/mkdocs-and-material-for-mkdocs-tips-matome/)
 
 - [Pipenvを使ったPython開発まとめ](https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a)
+
+- [MkDocsによるドキュメント作成](https://zenn.dev/mebiusbox/articles/81d977a72cee01)

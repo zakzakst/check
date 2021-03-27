@@ -1,24 +1,27 @@
 # はじめに
 
-この度は興味をもっていただき、ありがとうございます。
-あくまで「認識の齟齬をなくす・安心してもらう目的」「分からない点は任せてもらってOK」「このやり方でないとNGという意図ではない」ことも補足で記載しておく
+この度は「コーディングについて」をご覧いただきありがとうございます。
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
+こちらでは私のコーディング業務の進め方についてご説明しております。<br>
+進め方を確認していただくことで、「安心してご依頼いただく」「お互いの認識の齟齬をなくす」ことに繋がればと考えております。<br>
+もちろん、自身の進め方にこだわるつもりはありません。
 
-!!! note
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+**「この部分は別のやり方で対応してほしい」<br>
+「細かい部分は判断を任せたい」<br>
+「この項目の意図が分からないから説明してほしい」**など
 
-- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
-- [ ] Vestibulum convallis sit amet nisi a tincidunt
-  * [x] In hac habitasse platea dictumst
-  * [x] In scelerisque nibh non dolor mollis congue sed et metus
-  * [ ] Praesent sed risus massa
+ご希望ご質問がありましたらお気軽にご連絡ください。
+柔軟に対応させていただきます。
 
-[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+---
 
-[^2]:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-  nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-  massa, nec semper lorem quam in massa.
+**[ヒアリング項目](hearing-list.md)**<br>
+作業開始前に、ご依頼者様にヒアリングさせていただく内容について記載しています。
+
+**[チェック項目](check-list.md)**<br>
+コーディング完了後、納品前に行うチェックについて記載しています。
+
+**[利用チェックツール](check-tools.md)**<br>
+**[エディタ設定・機能](editor-settings.md)**<br>
+**[タスクランナー](task-runner.md)**<br>
+速く正確なコーディングを行うために整えている作業環境について記載しています。
