@@ -3,7 +3,7 @@
 
 | 利用プログラム | 作業内容 |
 | :--- | :--- |
-| [gulp-htmlmin](https://www.npmjs.com/package/gulp-htmlmin) | HTMLを整形・圧縮する |
+| [gulp-htmlhint](https://www.npmjs.com/package/gulp-htmlhint)、[gulp-htmlmin](https://www.npmjs.com/package/gulp-htmlmin) | HTMLを整形・圧縮する |
 | [gulp-ejs](https://www.npmjs.com/package/gulp-ejs)、[gulp-nunjucks-render](https://www.npmjs.com/package/gulp-nunjucks-render)、[gulp-pug](https://www.npmjs.com/package/gulp-pug) | 各種HTMLテンプレート言語を展開する |
 | [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin) | 画像を圧縮する |
 | [gulp-sass](https://www.npmjs.com/package/gulp-sass)、[stylelint](https://www.npmjs.com/package/stylelint) | CSS・SCSSを結合・整形・圧縮する |
